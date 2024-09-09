@@ -46,9 +46,9 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📬 Contato
 
-Seu Nome - [Andre Borba](andre.borbaaf2b@gmail.com)
+[Andre Borba](andre.borbaaf2b@gmail.com)
 
-Link do Projeto: [Prompt Engineering](https://github.com/AF2B/Prompt-Engineering)
+[Prompt Engineering](https://github.com/AF2B/Prompt-Engineering)
 
 ---
 
