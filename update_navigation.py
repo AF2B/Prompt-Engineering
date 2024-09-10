@@ -69,13 +69,13 @@ def update_markdown_file(file_path: str, navigation_section: str) -> None:
         with open(file_path, "r", encoding="utf-8") as file:
             content = file.read()
 
-        # Find the existing navigation section or the end of the content
+        """ Find the existing navigation section or the end of the content """
         nav_start = content.find("\n## Navegação")
         if nav_start == -1:
-            # If no navigation section exists, add it at the end
+            """ If no navigation section exists, add it at the end """
             updated_content = content + "\n" + navigation_section
         else:
-            # If a navigation section exists, replace it
+            """ If a navigation section exists, replace it """
             nav_end = content.find("\n## Contribuição", nav_start)
             if nav_end == -1:
                 nav_end = len(content)
