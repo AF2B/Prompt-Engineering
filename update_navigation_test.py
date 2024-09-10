@@ -9,10 +9,8 @@ from update_navigation import (
     update_markdown_file,
 )
 
-# Definição da constante para o caminho do arquivo metadata.yaml
 METADATA_FILE = "metadata.yaml"
 
-# Mock data for testing
 mock_metadata = {
     "global_links": {
         "issues": "https://github.com/issues",
