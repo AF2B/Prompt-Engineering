@@ -1,5 +1,3 @@
-<a id="indice"></a>
-
 # Contexto e Especificidade em Engenharia de Prompt
 
 ## Introdução
@@ -137,7 +135,6 @@ O contexto e a especificidade são conceitos fundamentais em Engenharia de Promp
 - [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
 
 <div align="center">
-  <a href="#indice">Voltar ao Índice</a> | 
   <a href="https://github.com/AF2B/Prompt-Engineering">Sobre este Projeto</a> | 
   <a href="https://github.com/AF2B/Prompt-Engineering/blob/main/LICENSE">Licença</a>
 </div>
