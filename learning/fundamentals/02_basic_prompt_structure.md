@@ -132,3 +132,24 @@ Este exemplo combina várias técnicas:
 ## Conclusão
 
 A estruturação eficaz de prompts é uma habilidade fundamental em Prompt Engineering. Ao combinar contexto, instruções claras, entradas relevantes e especificações de saída, você pode guiar modelos de linguagem para produzir resultados mais precisos e úteis. Pratique combinando diferentes técnicas e componentes para criar prompts poderosos e eficazes.
+
+## Navegação
+
+- [Anterior: Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+
+## Tópicos Relacionados
+
+- [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+- [Tipos de Prompts](03_types_of_prompts.md)
+
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/yourusername/prompt-engineering/issues) ou envie um [pull request](https://github.com/yourusername/prompt-engineering/pulls).
+
+---
+
+<div align="center">
+  <a href="README.md">Voltar ao Índice</a> | 
+  <a href="about.md">Sobre este Projeto</a> | 
+  <a href="LICENSE">Licença</a>
+</div>
