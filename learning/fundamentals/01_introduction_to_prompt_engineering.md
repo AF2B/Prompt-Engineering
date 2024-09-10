@@ -65,6 +65,11 @@ O Prompt Engineering é uma habilidade crucial na era da IA. Dominar essa discip
 
 - [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
 - [Tipos de Prompts](03_types_of_prompts.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Componentes do Prompt](05_prompt_components.md)
+- [Erros comuns em Prompts](06_common_pitfalls.md)
+- [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
 
 ## Contribuição
 
