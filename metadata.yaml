@@ -21,7 +21,7 @@ topics:
       - "02_basic_prompt_structure"
       - "03_types_of_prompts"
 
-  # TODO: Adicionar tópicos seguintes aqui.
+  # TODO: Add more topics here!
 
 global_links:
   index: "README.md"
