@@ -73,12 +73,12 @@ O Prompt Engineering é uma habilidade crucial na era da IA. Dominar essa discip
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/yourusername/prompt-engineering/issues) ou envie um [pull request](https://github.com/yourusername/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/AF2B/prompt-engineering/issues) ou envie um [pull request](https://github.com/AF2B/prompt-engineering/pulls).
 
 ---
 
 <div align="center">
-  <a href="README.md">Voltar ao Índice</a> | 
-  <a href="about.md">Sobre este Projeto</a> | 
-  <a href="LICENSE">Licença</a>
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/AF2B/Prompt-Engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/AF2B/Prompt-Engineering/blob/main/LICENSE">Licença</a>
 </div>
