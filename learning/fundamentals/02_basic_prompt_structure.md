@@ -136,11 +136,17 @@ A estruturação eficaz de prompts é uma habilidade fundamental em Prompt Engin
 ## Navegação
 
 - [Anterior: Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+- [Próximo: Tipos de Prompts](03_types_of_prompts.md)
 
 ## Tópicos Relacionados
 
 - [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
 - [Tipos de Prompts](03_types_of_prompts.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Componentes do Prompt](05_prompt_components.md)
+- [Erros comuns em Prompts](06_common_pitfalls.md)
+- [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
 
 ## Contribuição
 
