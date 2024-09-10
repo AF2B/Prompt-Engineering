@@ -1,5 +1,18 @@
 # Estrutura Básica de Prompts
 
+## Índice
+- [Componentes de um Prompt](#componentes-de-um-prompt)
+  - [1. Contexto](#1-contexto)
+  - [2. Instrução](#2-instrução)
+  - [3. Entrada](#3-entrada)
+  - [4. Formato de Saída](#4-formato-de-saída)
+- [Combinando Componentes](#combinando-componentes)
+- [Fluxo de Criação de Prompts](#fluxo-de-criação-de-prompts)
+- [Conclusão](#conclusão)
+- [Navegação](#navegação)
+- [Tópicos Relacionados](#tópicos-relacionados)
+- [Contribuição](#contribuição)
+
 A estrutura de um prompt eficaz é fundamental para obter os melhores resultados de um modelo de linguagem. Neste capítulo, exploraremos os componentes essenciais de um prompt bem estruturado e como combiná-los para máxima eficácia.
 
 ## Componentes de um Prompt
@@ -155,7 +168,7 @@ Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://gith
 ---
 
 <div align="center">
-  <a href="README.md">Voltar ao Índice</a> | 
-  <a href="about.md">Sobre este Projeto</a> | 
-  <a href="LICENSE">Licença</a>
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/AF2B/Prompt-Engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/AF2B/Prompt-Engineering/blob/main/LICENSE">Licença</a>
 </div>
